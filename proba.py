@@ -3,4 +3,4 @@ from random import *
 print(random())
 print(randrange(4))
 s=int(input("Ez az:"))
-print("Változtatni krtam csak")
+print("Változtatni Akartam csak")
